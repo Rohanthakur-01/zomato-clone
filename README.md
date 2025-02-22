@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+# 🍕 Zomato Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A **Zomato Clone** web application built with **HTML**, **CSS**, and **JavaScript**.  
+This responsive website lets users explore restaurants, browse menus, and view featured dishes with smooth animations and interactive elements.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📍 Table of Contents
 
-### `npm start`
+- [🚀 Live Demo](#-live-demo)  
+- [✨ Features](#-features)  
+- [🛠️ Technologies Used](#-technologies-used)  
+- [📄 Website Sections](#-website-sections)  
+  - [🏠 Home](#-home)  
+  - [🔎 Search](#-search)  
+  - [🍽️ Restaurant Listings](#-restaurant-listings)  
+  - [📋 Restaurant Details](#-restaurant-details)  
+  - [📞 Contact](#-contact)  
+- [⚙️ How to Run the Project](#-how-to-run-the-project)  
+- [🤝 Contributing](#-contributing)  
+- [📄 License](#-license)  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Live Demo
 
-### `npm test`
+🔗 **Live Website:** [Zomato Clone](https://zomato-clone-wheat-five.vercel.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Explore the fully responsive platform featuring restaurant listings, detailed pages, and smooth user interactions.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✨ Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✅ Fully responsive design for all devices.  
+✅ Smooth **scroll-triggered animations** for engaging navigation.  
+✅ **Hover effects** on cards and buttons for an interactive experience.  
+✅ User-friendly **restaurant search** functionality.  
+✅ Visually appealing **restaurant listings** with images and brief descriptions.  
+✅ Dedicated **contact section** for user inquiries.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠️ Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **HTML5:** Structure of the website.  
+- **CSS3:** Styling and responsive layouts.  
+- **JavaScript:** Interactivity and animations.  
+- **Swiper.js:** Responsive sliders for showcasing images and featured restaurants.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📄 Website Sections
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 🏠 Home
 
-## Learn More
+- Hero banner with a vibrant **restaurant-themed image**.  
+- Smooth **scroll animations** and **hover effects** on buttons and images.  
+- Call-to-action buttons guide users to explore restaurants and menus.  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🔎 Search
 
-### Code Splitting
+- Integrated **search bar** to find restaurants by name or cuisine.  
+- Real-time feedback with **hover animations** on search results.  
+- Clear and concise display of restaurant options.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+### 🍽️ Restaurant Listings
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Grid layout showcasing various restaurants with images and ratings.  
+- Interactive **hover effects** on restaurant cards.  
+- **Swiper.js slider** used for highlighting featured restaurants.  
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 📋 Restaurant Details
 
-### Advanced Configuration
+- Detailed pages featuring restaurant information, menu, and user reviews.  
+- **Smooth scrolling animations** enhance the browsing experience.  
+- Menu items are displayed with prices and brief descriptions.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+### 📞 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Simple **contact form** for user queries and feedback.  
+- Interactive input fields with subtle **focus animations**.  
+- Clear call-to-action buttons for submitting inquiries.  
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## ⚙️ How to Run the Project
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/zomato-clone.git
+
